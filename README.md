@@ -1,10 +1,11 @@
 # MASUD-AUTO-SHARE
 Auto Share Tools,, By Masud🙂
 
+## Installation
 ```
-git clone https://github.com/Termuxmasud404/MASUD-AUTO-SHARE.git
+git clone https://github.com/Termuxmasud404/MASUD-AUTO-SHARE
 cd MASUD-AUTO-SHARE
-python
+python share.py
 ```
 
 
