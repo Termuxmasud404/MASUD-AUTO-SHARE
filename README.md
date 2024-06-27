@@ -1,6 +1,15 @@
 # MASUD-AUTO-SHARE
 Auto Share Tools,, By Masud🙂
 
+```
+git clone https://github.com/Termuxmasud404/MASUD-AUTO-SHARE.git
+cd MASUD-AUTO-SHARE
+python
+```
+
+
+
+
 
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
